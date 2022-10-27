@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "HTML",
+        "enrolled": 118,
+        "rating": 4.5,
+        "price": "$70",
+        "details": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. ",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+        "id": 2,
+        "name": "CSS",
+        "enrolled": 118,
+        "rating": 4.0,
+        "price": "$80",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "img": "https://cdn-icons-png.flaticon.com/512/919/919826.png"
+    },
+    {
+        "id": 3,
+        "name": "JAVASCRIPT",
+        "enrolled": 118,
+        "rating": 3.0,
+        "price": "$50",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "img": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png"
+    },
+    {
+        "id": 4,
+        "name": "REACT",
+        "enrolled": 108,
+        "rating": 5.0,
+        "price": "$60",
+        "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+    },
+    {
+        "id": 5,
+        "name": "TAILWIND",
+        "enrolled": 128,
+        "rating": 4.0,
+        "price": "$65",
+        "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables.",
+        "img": "https://www.wizcase.com/wp-content/uploads/2021/11/tailwind-logo.png"
+    },
+    {
+        "id": 6,
+        "name": "NODEJS",
+        "enrolled": 18,
+        "rating": 3.0,
+        "price": "$75",
+        "details": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications",
+        "img": "https://cdn-icons-png.flaticon.com/512/919/919825.png"
+    }
+]
